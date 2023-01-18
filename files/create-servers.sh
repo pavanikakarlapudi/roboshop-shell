@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-
-@pavanikakarlapudi
-raghudevopsb70
-/
-roboshop-shell
-Public
-Fork your own copy of raghudevopsb70/roboshop-shell
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-roboshop-shell/create-servers.sh
-@r-devops
-r-devops Create Servers script
-Latest commit 76c8791 2 weeks ago
- History
- 1 contributor
-49 lines (39 sloc)  1.69 KB
-
 #!/bin/bash
 
 ##### Change these values ###
@@ -76,18 +47,3 @@ for component in catalogue cart user shipping payment frontend mongodb mysql rab
   COMPONENT="${component}-${env}"
   create_ec2
 done
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-roboshop-shell/create-servers.sh at main · raghudevopsb70/roboshop-shell
