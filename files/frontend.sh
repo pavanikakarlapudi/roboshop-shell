@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-
-@pavanikakarlapudi
-raghudevopsb70
-/
-roboshop-shell
-Public
-Fork your own copy of raghudevopsb70/roboshop-shell
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-roboshop-shell/frontend.sh
-@r-devops
-r-devops Update roboshop-shell/
-Latest commit 7e18a97 2 weeks ago
- History
- 1 contributor
-34 lines (23 sloc)  751 Bytes
-
 source common.sh
 
 print_head "Install Nginx"
@@ -61,18 +32,3 @@ systemctl restart nginx &>>${LOG}
 status_check
 
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-roboshop-shell/frontend.sh at main · raghudevopsb70/roboshop-shell
