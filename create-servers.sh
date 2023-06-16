@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##### Change these values ###
-ZONE_ID="Z08201382DABPAK3PSL2Q"
+ZONE_ID="Z00509021VPGQAHXE4RSD"
 DOMAIN="arjundevops.online"
 SG_NAME="allow-all"
 env=dev
